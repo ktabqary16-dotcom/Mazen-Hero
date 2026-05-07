@@ -1,0 +1,10 @@
+{
+    "version": "6.0.0",
+    "app_name": "Mazen ZAP Pro",
+    "author": "Mazen",
+    "output_dir": "output",
+    "logs_dir": "logs",
+    "reports_dir": "reports",
+    "payloads_dir": "payloads",
+    "wordlists_dir": "wordlists"
+}
